@@ -39,6 +39,12 @@ section {
 }
 
 
+#vh {
+	width: 800px;
+	float: left;
+}
+
+
 
 hr { 
   display: block;
@@ -74,6 +80,7 @@ footer {
   overflow: hidden;
   background-color: white;
   font-family: Arvo;
+  
 }
 
 /* Links inside the navbar */

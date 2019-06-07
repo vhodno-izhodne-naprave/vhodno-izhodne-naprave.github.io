@@ -20,7 +20,6 @@ section {
 	background-color:white;
 	color: black;
 	width:1000px;
-	height:232px;
 	float:right;
 	padding:20px;
 }
@@ -29,11 +28,9 @@ img {
 	float: left; 
 	padding: 10px
 } 
- 
-#tip {
-	width: 800px;
-	
-}
+
+
+
 
 
 footer {
